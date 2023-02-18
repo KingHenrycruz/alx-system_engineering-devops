@@ -1,2 +1,2 @@
 #!/bin/bash
-chgroup school hello
+su chgroup school hello
