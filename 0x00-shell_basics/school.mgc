@@ -1,2 +1,3 @@
 #!/bin/bash
-0 file -C -m School data
+0 string SCHOOL \0 School data file
+
