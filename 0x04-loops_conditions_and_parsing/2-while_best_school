@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-#print string ten times using loop
+# prints a string 10 times using while loop 
 
-i = 0
+i=0
 
 while [ "$i" -lt 10 ]; do
   echo "Best School"
